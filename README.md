@@ -8,9 +8,8 @@ Update Movie: Users can update the details of any movie in the collection.
 Delete Movie: Users can remove a movie from the system.
 Search Functionality: Allows users to search for movies by title, genre, or other filters.
 Project Structure
-graphql
-Copy code
-.
+
+
 ├── models
 │   └── movie.js           # Mongoose schema for movie data
 ├── routes
@@ -26,6 +25,7 @@ Copy code
 ├── app.js                 # Main application file
 ├── package.json           # Project metadata and dependencies
 └── README.md              # Project documentation
+
 Technologies Used
 
 Node.js: Server-side JavaScript runtime.
